@@ -1,0 +1,10 @@
+name = "GenAstro"
+uuid = "ddc933a4-c310-44a3-8ada-c87ff420b2dd"
+repo = "https://github.com/GenAstro/Registry.git"
+
+description = """
+Gen Astro's registry for the source-available Epicycle packages. The open packages are in General; \
+this registry carries the ones whose licence is LicenseRef-GenAstro-SourceAvailable.
+"""
+
+[packages]
