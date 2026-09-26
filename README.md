@@ -12,7 +12,7 @@ Add the registry once, then packages from it install the way any other package d
 
 ```julia
 using Pkg
-Pkg.Registry.add(RegistrySpec(url = "https://github.com/GenAstro/Registry.git"))
+Pkg.Registry.add(RegistrySpec(url = "https://github.com/GenAstro/GenAstroRegistry.git"))
 Pkg.add("Epicycle")
 ```
 
