@@ -26,7 +26,7 @@ from an environment that has the package developed:
 
 ```julia
 using LocalRegistry
-register(MyPackage; registry = "GenAstro")
+register(MyPackage; registry = "GenAstroRegistry")
 ```
 
 `register` reads the package's committed tree, so the version bump in `Project.toml` is committed
