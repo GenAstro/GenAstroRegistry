@@ -7,3 +7,4 @@ Gen Astro's registry for the source-available Epicycle packages. The open packag
 """
 
 [packages]
+ac4cc047-8a77-4e9e-bb46-f1584e9a10ee = { name = "AstroModels", path = "A/AstroModels" }
