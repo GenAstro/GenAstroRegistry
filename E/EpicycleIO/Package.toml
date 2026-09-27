@@ -1,0 +1,4 @@
+name = "EpicycleIO"
+uuid = "bfe33608-6d86-43c6-b08a-970f48091ef6"
+repo = "https://github.com/GenAstro/Epicycle"
+subdir = "EpicycleIO"
